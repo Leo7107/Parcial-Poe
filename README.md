@@ -1,4 +1,4 @@
-# Parcial de Programación Orientada a Eventos - Respuestas Completas
+# Parcial de Programación Orientada a Eventos 
 
 Este documento contiene las respuestas a las preguntas teóricas de los ejercicios del parcial de Programación Orientada a Eventos (POE), junto con ejemplos de código donde aplica.
 
